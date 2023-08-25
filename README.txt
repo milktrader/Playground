@@ -1,1 +1,4 @@
 test
+foo 
+bar 
+baz
